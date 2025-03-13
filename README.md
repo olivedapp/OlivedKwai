@@ -1,5 +1,5 @@
-# OlivedKwai
+# 快手直播录制软件
 
-快手直播录制软件现已开启内测，欢迎加入QQ群 1012276525，下载体验。
+[下载地址](https://github.com/olivedapp/OlivedKwai/releases)
 
-https://www.bilibili.com/video/BV18oAweWEe1
+更新通知 QQ 群 1012276525
